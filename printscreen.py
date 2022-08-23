@@ -26,15 +26,3 @@ mail.Body = "This is the normal body"
 mail.Attachments.Add('C:\\location\\screenshot.png')
 mail.Attachments.Add('C:\\location.png')
 mail.Send()
-
-
-
-
-
-
-
-
-
-
-
-
